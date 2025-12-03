@@ -1,36 +1,76 @@
-🎮 Sanjoy Arcade
+<h1 align="center">🎮 Sanjoy Arcade</h1>
 
-A modern, minimal, and lightning-fast React + Vite game hub featuring multiple mini-games like Rock-Paper-Scissors, Typing Speed Test, Maze Runner and more.
-Built for fun, speed, and a premium UI experience.
+<p align="center">
+  A modern, minimal, and lightning-fast <b>React + Vite</b> game hub featuring multiple mini-games like 
+  <i>Rock-Paper-Scissors, Typing Speed Test, Maze Runner</i> and more.
+  <br>
+  Built for fun, speed, and a premium UI experience.
+</p>
 
-🔗 Live Demo: https://sanjoy-arcade.vercel.app/
+<p align="center">
+  🔗 <a href="https://sanjoy-arcade.vercel.app/" target="_blank"><b>Live Demo</b></a>
+</p>
 
-🚀 Features
+<hr>
 
-🕹️ Multiple Mini Games
-Rock-Paper-Scissors, Typing Test, Snake, Maze Runner and more.
+<h2>🚀 Features</h2>
 
-🎨 Modern UI
-Crafted using Tailwind CSS, minimal animations, and smooth transitions.
+<ul>
+  <li>🕹️ <b>Multiple Mini Games</b><br>
+      Rock-Paper-Scissors, Typing Test, Snake, Maze Runner and more.</li>
+  
+  <li>🎨 <b>Modern UI</b><br>
+      Built with Tailwind CSS, smooth transitions, and a clean premium layout.</li>
+  
+  <li>⚡ <b>Super Fast</b><br>
+      Powered by Vite — instant development and blazing build speed.</li>
+  
+  <li>💻 <b>Fully Responsive</b><br>
+      Optimized for desktop, tablet, and mobile users.</li>
+  
+  <li>🧩 <b>Modular Game Components</b><br>
+      Each game is a standalone component for easy scaling and maintenance.</li>
+</ul>
 
-⚡ Super Fast
-Built with Vite — instant startup and blazing-fast builds.
+<hr>
 
-💻 Fully Responsive
-Works smoothly on desktop and mobile devices.
+<h2>🛠️ Tech Stack</h2>
 
-🧩 Modular Game Components
-Each game is organized as a separate component for easier updates.
+<h3>Frontend</h3>
+<ul>
+  <li>React</li>
+  <li>Vite</li>
+  <li>Tailwind CSS</li>
+  <li>Lucide Icons</li>
+  <li>Custom CSS animations & transitions</li>
+</ul>
 
-🛠️ Tech Stack
-Frontend
+<hr>
 
-React
+<h2>📦 Installation</h2>
 
-Vite
+<pre>
+git clone https://github.com/YOUR-USERNAME/sanjoy-arcade.git
+cd sanjoy-arcade
+npm install
+npm run dev
+</pre>
 
-Tailwind CSS
+<hr>
 
-Lucide Icons
+<h2>🌐 Deployment</h2>
+<p>
+  Hosted on <b>Vercel</b> with automatic deployments from GitHub.
+</p>
 
-Custom animations & transitions
+<hr>
+
+<h2>🙌 Author</h2>
+<p><b>Sanjoy Dey</b><br>
+Frontend Engineer • MERN Stack Developer • Game UI Enthusiast</p>
+
+<hr>
+
+<h2>⭐ Support</h2>
+<p>If you like this project, consider giv
+
