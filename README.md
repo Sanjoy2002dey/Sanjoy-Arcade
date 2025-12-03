@@ -2,7 +2,7 @@
 
 <p align="center">
   A modern, minimal, and lightning-fast <b>React + Vite</b> game hub featuring multiple mini-games like 
-  <i>Rock-Paper-Scissors, Typing Speed Test, Maze Runner</i> and more.
+  <i>Rock-Paper-Scissors, Sanke game </i> and more.
   <br>
   Built for fun, speed, and a premium UI experience.
 </p>
@@ -17,7 +17,7 @@
 
 <ul>
   <li>🕹️ <b>Multiple Mini Games</b><br>
-      Rock-Paper-Scissors, Typing Test, Snake, Maze Runner and more.</li>
+      Rock-Paper-Scissors, Snake and more.</li>
   
   <li>🎨 <b>Modern UI</b><br>
       Built with Tailwind CSS, smooth transitions, and a clean premium layout.</li>
@@ -65,12 +65,4 @@ npm run dev
 
 <hr>
 
-<h2>🙌 Author</h2>
-<p><b>Sanjoy Dey</b><br>
-Frontend Engineer • MERN Stack Developer • Game UI Enthusiast</p>
-
-<hr>
-
-<h2>⭐ Support</h2>
-<p>If you like this project, consider giv
 
