@@ -1,16 +1,36 @@
-# React + Vite
+🎮 Sanjoy Arcade
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, minimal, and lightning-fast React + Vite game hub featuring multiple mini-games like Rock-Paper-Scissors, Typing Speed Test, Maze Runner and more.
+Built for fun, speed, and a premium UI experience.
 
-Currently, two official plugins are available:
+🔗 Live Demo: https://sanjoy-arcade.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## React Compiler
+🕹️ Multiple Mini Games
+Rock-Paper-Scissors, Typing Test, Snake, Maze Runner and more.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎨 Modern UI
+Crafted using Tailwind CSS, minimal animations, and smooth transitions.
 
-## Expanding the ESLint configuration
+⚡ Super Fast
+Built with Vite — instant startup and blazing-fast builds.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+💻 Fully Responsive
+Works smoothly on desktop and mobile devices.
+
+🧩 Modular Game Components
+Each game is organized as a separate component for easier updates.
+
+🛠️ Tech Stack
+Frontend
+
+React
+
+Vite
+
+Tailwind CSS
+
+Lucide Icons
+
+Custom animations & transitions
